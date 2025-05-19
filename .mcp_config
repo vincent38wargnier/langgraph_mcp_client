@@ -1,0 +1,2 @@
+MCP_ENDPOINT=https://magify.app.n8n.cloud/mcp/d36d2dcd-b620-4efb-aab0-972d691a8550/sse
+MCP_TRANSPORT=sse 

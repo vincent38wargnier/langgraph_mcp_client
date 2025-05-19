@@ -1,0 +1,48 @@
+{
+  "id": "1cec036f-4af6-4120-b26b-5427fe4b5ab7",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-05-17T17:10:32.230403"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?",
+      "timestamp": "2025-05-17T17:10:33.836329"
+    },
+    {
+      "role": "user",
+      "content": "what's up",
+      "timestamp": "2025-05-17T17:10:39.390156"
+    },
+    {
+      "role": "assistant",
+      "content": "Not much, just here to help you out! What's up with you?",
+      "timestamp": "2025-05-17T17:10:40.245060"
+    },
+    {
+      "role": "user",
+      "content": "who is the preseident of france",
+      "timestamp": "2025-05-17T17:10:48.707634"
+    },
+    {
+      "role": "assistant",
+      "content": "The President of France is Emmanuel Macron.",
+      "timestamp": "2025-05-17T17:10:49.916998"
+    },
+    {
+      "role": "user",
+      "content": "how old is he",
+      "timestamp": "2025-05-17T17:10:54.061323"
+    },
+    {
+      "role": "assistant",
+      "content": "Emmanuel Macron was born on December 21, 1977, which makes him 45 years old.",
+      "timestamp": "2025-05-17T17:10:54.824248"
+    }
+  ],
+  "is_active": true,
+  "created_at": "2025-05-17T17:10:32.230231",
+  "updated_at": "2025-05-17T17:10:54.824253"
+}
